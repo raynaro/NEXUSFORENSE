@@ -1,0 +1,8 @@
+CREDENCIALES DE PRUEBA LOCALES — NO COMPARTIR NI SUBIR A GITHUB
+=========================================================
+Acceso: http://localhost:5173/admin
+Correo: admin@nexusforense.local
+Contraseña: myWWE7UeNIPYrIwaZzY0
+
+IMPORTANTE: Cambia la contraseña y correo antes de publicar.
+Este archivo es local, está excluido por .gitignore.
